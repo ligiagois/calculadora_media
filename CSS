@@ -1,0 +1,32 @@
+body {
+    background-color: #FFF0F5		;
+    color: #9400D3	;
+}
+
+.corpo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+button {
+    margin-top: 3%;
+    border-radius: 0.2em;
+
+
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+input{
+    border-radius: 0.2em;
+}
+
+.notas {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
